@@ -56,6 +56,7 @@ while True:
 exp_json()
 
 #del_all()
+see_all()
 
 
 
