@@ -8,5 +8,15 @@
         "artnr": "SA",
         "languages": null,
         "antal": 2
+    },
+    {
+        "artnr": "PO",
+        "languages": null,
+        "antal": 1
+    },
+    {
+        "artnr": "C:/USERS/FREDRIK.SLOBERG/MINICONDA3/PYTHON.EXE D:/PY/BLIPPER/MANAGE.PY",
+        "languages": null,
+        "antal": 1
     }
 ]
