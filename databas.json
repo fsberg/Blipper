@@ -13,5 +13,30 @@
         "artnr": "PO",
         "languages": null,
         "antal": 1
+    },
+    {
+        "artnr": "D1504042",
+        "languages": "Fusing Unit",
+        "antal": 2
+    },
+    {
+        "artnr": "D1862228",
+        "languages": "PCU BK",
+        "antal": 1
+    },
+    {
+        "artnr": "D1862229",
+        "languages": "PCU Color",
+        "antal": 1
+    },
+    {
+        "artnr": "D1862219",
+        "languages": "PCU color",
+        "antal": 1
+    },
+    {
+        "artnr": "D1862218",
+        "languages": null,
+        "antal": 1
     }
 ]

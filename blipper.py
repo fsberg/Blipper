@@ -1,5 +1,6 @@
 import sqlite3
 import json
+import os
 
 conn = sqlite3.connect("lager.db")
 
@@ -56,8 +57,9 @@ def update_antal(artnr):
 
 def scanner():
 
-    inp = input()
+    inp = input('Input: ')
     inp = inp.upper()
+    os.system('cls' if os.name=='nt' else 'clear')
     return inp
 
 def check_db(artnr):
@@ -84,11 +86,14 @@ while True:
 
     if scan_art == ret_artnum:
         print('update')
+        print(scan_art)
         update_antal(scan_art)
+
     
     else:
-        print('insert')
+        print('Added 1 to ' + scan_art)
         insert_data(scan_art,ret_artnamn,z)
+
     
 
     sel_all()

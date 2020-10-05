@@ -1,5 +1,6 @@
 import sqlite3
 import json
+import os
 
 conn = sqlite3.connect("lager.db")
 
@@ -31,7 +32,7 @@ def exp_json():
     
     art=[]
     for item in items:
-        temp = {"artnr": item[0], "languages": item[1], "antal":item[2]}
+        temp = {"artnr": item[0], "namn": item[1], "antal":item[2]}
         art.append(temp)
     print(art)
 
@@ -41,20 +42,23 @@ def exp_json():
     print('exported to json')
 
 def see_all():
+
+    os.system('cls' if os.name=='nt' else 'clear')
+
     c.execute("SELECT rowid, * FROM lager")
     items = c.fetchall()
     for item in items:
         print(item)
 
 
-"""
+
 while True:
     see_all()
     del_one()
-"""
 
-exp_json()
 
+#exp_json()
+see_all()
 #del_all()
 
 
