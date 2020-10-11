@@ -28,7 +28,7 @@ def check_artname(artnr):
     temp =[]
 
     for item in data['artikel']:        
-        if str(artnr) in item.get('artnr'):
+        if str(artnr) in str(item.get('artnr')):
             art_namn = item['artnamn']
             return art_namn
 
@@ -88,7 +88,6 @@ while True:
         print('update')
         print(scan_art)
         update_antal(scan_art)
-
     
     else:
         print('Added 1 to ' + scan_art)

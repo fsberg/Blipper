@@ -50,16 +50,38 @@ def see_all():
     for item in items:
         print(item)
 
+def art_minus(artnr,antal):
+    c.execute("SELECT rowid, * FROM lager WHERE artikelnummer = (?)",[artnr,] )
+
+    records = c.fetchall()
+
+    for row in records:
+        temp = int(row[3])
+        temp = temp - antal
+
+    
+
+    c.execute("UPDATE lager SET antal = ? WHERE artikelnummer = (?)", [temp,artnr,]) 
+    conn.commit()
 
 
+
+
+#while True:
+#    see_all()
+#    del_one()
+
+
+exp_json()
+#see_all()
+#del_all()
+"""
 while True:
     see_all()
-    del_one()
-
-
-#exp_json()
-see_all()
-#del_all()
+    artnr = input('Fyll i artikelnr: ')
+    antal = int(input('Antal att ta bort: '))
+    art_minus(artnr,antal)
+"""
 
 
 

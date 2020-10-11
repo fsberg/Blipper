@@ -1,42 +1,1032 @@
 [
     {
-        "artnr": "DC",
-        "languages": null,
-        "antal": 1
+        "artnr": "D1173304",
+        "namn": "DRIVE UNIT:TONER SUPPLY:ASS'Y",
+        "antal": 7
     },
     {
-        "artnr": "SA",
-        "languages": null,
+        "artnr": "D1175112",
+        "namn": "PCB:BICU:ASS'Y",
         "antal": 2
     },
     {
-        "artnr": "PO",
-        "languages": null,
-        "antal": 1
-    },
-    {
-        "artnr": "D1504042",
-        "languages": "Fusing Unit",
+        "artnr": "D1175408",
+        "namn": "PCB:CTL:GRI-C1:EXP:ASS'Y",
         "antal": 2
     },
     {
-        "artnr": "D1862228",
-        "languages": "PCU BK",
-        "antal": 1
-    },
-    {
-        "artnr": "D1862229",
-        "languages": "PCU Color",
+        "artnr": "AZ320192",
+        "namn": "POWER PACK:T1T2",
         "antal": 1
     },
     {
         "artnr": "D1862219",
-        "languages": "PCU color",
+        "namn": "None",
+        "antal": 11
+    },
+    {
+        "artnr": "D1863063",
+        "namn": "None",
+        "antal": 3
+    },
+    {
+        "artnr": "D1863073",
+        "namn": "None",
+        "antal": 3
+    },
+    {
+        "artnr": "D1863083",
+        "namn": "None",
+        "antal": 3
+    },
+    {
+        "artnr": "D1173303",
+        "namn": "TONER HOPPER:TONER SUPPLY:COL:ASS'Y",
+        "antal": 4
+    },
+    {
+        "artnr": "D1461432",
+        "namn": "OPERATION SUB-UNIT:ME-C1AB:EU:ASS'Y",
+        "antal": 1
+    },
+    {
+        "artnr": "D1176002",
+        "namn": "TRANSFER UNIT:INTERMEDIATE TRANSFER",
+        "antal": 4
+    },
+    {
+        "artnr": "D1174403",
+        "namn": "PAPER EXIT UNIT:ASS'Y",
+        "antal": 1
+    },
+    {
+        "artnr": "D1171651",
+        "namn": "CARRIAGE:SCANNER:ASS'Y",
+        "antal": 2
+    },
+    {
+        "artnr": "D1186204",
+        "namn": "TRANSFER/SEPARATION UNIT:SECOND:DOM",
+        "antal": 1
+    },
+    {
+        "artnr": "D1170126",
+        "namn": "PCDU:C:SERVICE PARTS",
+        "antal": 4
+    },
+    {
+        "artnr": "D1863080",
+        "namn": "DEVELOPMENT UNIT:YELLOW:SERVICE PAR",
+        "antal": 1
+    },
+    {
+        "artnr": "AF031094",
+        "namn": "PAPER FEED ROLLER:FEED",
+        "antal": 4
+    },
+    {
+        "artnr": "AE032021",
+        "namn": "BUSHING - 34.3X39.9X15.5",
+        "antal": 1
+    },
+    {
+        "artnr": "AF030094",
+        "namn": "PAPER FEED ROLLER:PICKUP",
+        "antal": 4
+    },
+    {
+        "artnr": "D1173303",
+        "namn": "TONER HOPPER:TONER SUPPLY:COL:ASS'Y",
+        "antal": 2
+    },
+    {
+        "artnr": "D1173302",
+        "namn": "TONER HOPPER:TONER SUPPLY:BK:ASS'Y",
+        "antal": 1
+    },
+    {
+        "artnr": "D1174096",
+        "namn": "FUSING UNIT:EU:SERVICE:ASS'Y",
+        "antal": 2
+    },
+    {
+        "artnr": "D1174096",
+        "namn": "FUSING UNIT:EU:SERVICE:ASS'Y",
+        "antal": 4
+    },
+    {
+        "artnr": "D1186204",
+        "namn": "TRANSFER/SEPARATION UNIT:SECOND:DOM",
+        "antal": 8
+    },
+    {
+        "artnr": "D1275411",
+        "namn": "PCB:CTL:STL-C5:ASS'Y",
+        "antal": 1
+    },
+    {
+        "artnr": "M86827901K",
+        "namn": "None",
+        "antal": 2
+    },
+    {
+        "artnr": "D1170125",
+        "namn": "PCDU:BK:SERVICE PARTS",
+        "antal": 6
+    },
+    {
+        "artnr": "D1170127",
+        "namn": "PCDU:M:SERVICE PARTS",
+        "antal": 8
+    },
+    {
+        "artnr": "D1170128",
+        "namn": "PCDU:Y:SERVICE PARTS",
+        "antal": 6
+    },
+    {
+        "artnr": "D6064519",
+        "namn": "FEELER:ORIGINAL SENSOR",
+        "antal": 2
+    },
+    {
+        "artnr": "D1175080",
+        "namn": "POWER SUPPLY UNIT:200V:280W",
+        "antal": 2
+    },
+    {
+        "artnr": "D1273802",
+        "namn": "TRANSFER ROLLER:ASS'Y",
+        "antal": 1
+    },
+    {
+        "artnr": "D1882264",
+        "namn": "None",
+        "antal": 1
+    },
+    {
+        "artnr": "D0292210",
+        "namn": "PCU:C:EXP:ASS'Y",
+        "antal": 1
+    },
+    {
+        "artnr": "D1496212",
+        "namn": "TRANSFER ROLLER:SECOND:ASS'Y",
+        "antal": 4
+    },
+    {
+        "artnr": "D0BQ6141",
+        "namn": "None",
+        "antal": 3
+    },
+    {
+        "artnr": "D0876202",
+        "namn": "TRANSFER/SEPARATION UNIT:AT:DOM:ASS",
+        "antal": 1
+    },
+    {
+        "artnr": "D1495120",
+        "namn": "PCB:IOB:TRANSPORT:D146/D147/D148/D1",
+        "antal": 2
+    },
+    {
+        "artnr": "D1885212",
+        "namn": "PCB:MET-C1:C:EX3_CTL(AR):EXP",
+        "antal": 1
+    },
+    {
+        "artnr": "D3AW5674",
+        "namn": "None",
+        "antal": 1
+    },
+    {
+        "artnr": "D3E15695",
+        "namn": "None",
+        "antal": 1
+    },
+    {
+        "artnr": "D1495654",
+        "namn": "PCB:IMAGE PROCESSING UNIT:D148/D149",
+        "antal": 1
+    },
+    {
+        "artnr": "D2385680",
+        "namn": "None",
+        "antal": 1
+    },
+    {
+        "artnr": "D1170125",
+        "namn": "PCDU:BK:SERVICE PARTS",
+        "antal": 2
+    },
+    {
+        "artnr": "D1170126",
+        "namn": "PCDU:C:SERVICE PARTS",
+        "antal": 2
+    },
+    {
+        "artnr": "M86827910K",
+        "namn": "None",
+        "antal": 1
+    },
+    {
+        "artnr": "D1492891",
+        "namn": "PAPER TRAY:NO.1:ASS'Y",
+        "antal": 1
+    },
+    {
+        "artnr": "D1863053",
+        "namn": "DEVELOPMENT UNIT:BLACK:SERVICE PART",
+        "antal": 3
+    },
+    {
+        "artnr": "D1174690",
+        "namn": "GUIDE PLATE:REVERSE:ENTRANCE:LOWER",
+        "antal": 1
+    },
+    {
+        "artnr": "D0BQ2071",
+        "namn": "None",
+        "antal": 2
+    },
+    {
+        "artnr": "D1862229",
+        "namn": "None",
+        "antal": 1
+    },
+    {
+        "artnr": "D1272110",
+        "namn": "PCU",
+        "antal": 1
+    },
+    {
+        "artnr": "B2233034",
+        "namn": "DEVELOPMENT UNIT:C:EXP:ASS'Y",
+        "antal": 1
+    },
+    {
+        "artnr": "D0876202",
+        "namn": "TRANSFER/SEPARATION UNIT:AT:DOM:ASS",
+        "antal": 2
+    },
+    {
+        "artnr": "B2233044",
+        "namn": "DEVELOPMENT UNIT:Y:EXP:ASS'Y",
+        "antal": 1
+    },
+    {
+        "artnr": "D1444057",
+        "namn": "PRESSURE ROLLER:ASS'Y",
+        "antal": 1
+    },
+    {
+        "artnr": "D0394506",
+        "namn": "GUIDE PLATE:EXIT:DUPLEX:ASS'Y",
+        "antal": 1
+    },
+    {
+        "artnr": "AW100154",
+        "namn": "THERMISTOR:PRESSURE:MIDDLE",
+        "antal": 1
+    },
+    {
+        "artnr": "AW010109",
+        "namn": "PHOTO REFIECTION SENSOR:PS117ED1",
+        "antal": 1
+    },
+    {
+        "artnr": "AW020114",
+        "namn": "PHOTO INTERRUPTOR - LOWER LIMIT",
+        "antal": 2
+    },
+    {
+        "artnr": "AW020234",
+        "namn": "None",
+        "antal": 1
+    },
+    {
+        "artnr": "D0BQ2071",
+        "namn": "None",
+        "antal": 7
+    },
+    {
+        "artnr": "D1496097",
+        "namn": "FLAT BELT-TRANSFER:INTERMEDIATE TRA",
+        "antal": 1
+    },
+    {
+        "artnr": "D1176002",
+        "namn": "TRANSFER UNIT:INTERMEDIATE TRANSFER",
+        "antal": 1
+    },
+    {
+        "artnr": "D2392244",
+        "namn": "None",
+        "antal": 2
+    },
+    {
+        "artnr": "AZ240224",
+        "namn": "DC POWER SUPPLY:EU/AP/CHN:450.3W:D1",
         "antal": 1
     },
     {
         "artnr": "D1862218",
-        "languages": null,
+        "namn": "None",
+        "antal": 1
+    },
+    {
+        "artnr": "D1440622",
+        "namn": "CLEANING UNIT:INTERMEDIATE TRANSFER",
+        "antal": 1
+    },
+    {
+        "artnr": "D2961485",
+        "namn": "None",
+        "antal": 1
+    },
+    {
+        "artnr": "M90617906H",
+        "namn": "None",
+        "antal": 1
+    },
+    {
+        "artnr": "D1776098",
+        "namn": "None",
+        "antal": 1
+    },
+    {
+        "artnr": "D6866122",
+        "namn": "COVER:FRONT:SMALL",
+        "antal": 1
+    },
+    {
+        "artnr": "D1863053",
+        "namn": "DEVELOPMENT UNIT:BLACK:SERVICE PART",
+        "antal": 3
+    },
+    {
+        "artnr": "AW100156",
+        "namn": "THERMISTOR:PRESSURE:FRONT:2P",
+        "antal": 1
+    },
+    {
+        "artnr": "D0194002",
+        "namn": "FUSING UNIT - 230V",
+        "antal": 1
+    },
+    {
+        "artnr": "AW100156",
+        "namn": "THERMISTOR:PRESSURE:FRONT:2P",
+        "antal": 1
+    },
+    {
+        "artnr": "AD041140",
+        "namn": "CLEANING BLADE",
+        "antal": 1
+    },
+    {
+        "artnr": "B2476713",
+        "namn": "END FENCE - FRONT",
+        "antal": 1
+    },
+    {
+        "artnr": "B0649640",
+        "namn": "DEVELOPER TYPE 24 BLACK",
+        "antal": 1
+    },
+    {
+        "artnr": "D3B84572",
+        "namn": "None",
+        "antal": 1
+    },
+    {
+        "artnr": "D1496172",
+        "namn": "BRACKET:BELT CLEANING:FRONT",
+        "antal": 1
+    },
+    {
+        "artnr": "G0294174",
+        "namn": "PRESSURE ROLLER BUSHING",
+        "antal": 1
+    },
+    {
+        "artnr": "D1496006",
+        "namn": "TRANSFER UNIT:INTERMEDIATE TRANSFER",
+        "antal": 1
+    },
+    {
+        "artnr": "D1863073",
+        "namn": "None",
+        "antal": 2
+    },
+    {
+        "artnr": "D1863063",
+        "namn": "None",
+        "antal": 2
+    },
+    {
+        "artnr": "D1862218",
+        "namn": "None",
+        "antal": 1
+    },
+    {
+        "artnr": "D1863083",
+        "namn": "None",
+        "antal": 1
+    },
+    {
+        "artnr": "D1862229",
+        "namn": "None",
+        "antal": 1
+    },
+    {
+        "artnr": "D2392259",
+        "namn": "None",
+        "antal": 1
+    },
+    {
+        "artnr": "B2472330",
+        "namn": "BRUSH ROLLER:CLEANING",
+        "antal": 1
+    },
+    {
+        "artnr": "B0649640",
+        "namn": "DEVELOPER TYPE 24 BLACK",
+        "antal": 1
+    },
+    {
+        "artnr": "B2469510",
+        "namn": "OPC DRUM: MT-C3",
+        "antal": 1
+    },
+    {
+        "artnr": "B2472010",
+        "namn": "CHARGE CORONA UNIT",
+        "antal": 1
+    },
+    {
+        "artnr": "M1714028",
+        "namn": "FUSING UNIT:EU:30PPM",
+        "antal": 1
+    },
+    {
+        "artnr": "D2412701",
+        "namn": "PAPER FEED UNIT:NO.1:DOM:ASS'Y",
+        "antal": 1
+    },
+    {
+        "artnr": "D1176401",
+        "namn": "COLLECTION BOTTLE:ASS'Y",
+        "antal": 1
+    },
+    {
+        "artnr": "AE020247",
+        "namn": "PRESSURE ROLLER:DIA32:SERVICE PARTS",
+        "antal": 1
+    },
+    {
+        "artnr": "D8093001",
+        "namn": "DEVELOPMENT UNIT:BK:SERVICE:ASS'Y",
+        "antal": 3
+    },
+    {
+        "artnr": "D1442750",
+        "namn": "PAPER FEED UNIT:ASS'Y",
+        "antal": 1
+    },
+    {
+        "artnr": "D0254405",
+        "namn": "PAPER EXIT UNIT:MACHINE OR COPIER:A",
+        "antal": 1
+    },
+    {
+        "artnr": "D0292251",
+        "namn": "PCU:COLLAR:ASS'Y",
+        "antal": 3
+    },
+    {
+        "artnr": "D2385660",
+        "namn": "PCB:MET-C2A:SERVICE:EXP",
+        "antal": 1
+    },
+    {
+        "artnr": "M0264570",
+        "namn": "GUIDE PLATE:V TRANSPORT:DUPLEX",
+        "antal": 1
+    },
+    {
+        "artnr": "VVSSK9507",
+        "namn": "None",
+        "antal": 1
+    },
+    {
+        "artnr": "D0093209",
+        "namn": "TONER SUPPLY UNIT",
+        "antal": 1
+    },
+    {
+        "artnr": "AX040271",
+        "namn": "DC MOTOR:RISING TRAY:ASS'Y:1.92W:BR",
+        "antal": 1
+    },
+    {
+        "artnr": "D0813005",
+        "namn": "DEVELOPMENT UNIT:ASS'Y",
+        "antal": 1
+    },
+    {
+        "artnr": "D0254063",
+        "namn": "FUSING UNIT:EU:MAINTENANCE:SUB-ASS'",
+        "antal": 1
+    },
+    {
+        "artnr": "D0394017",
+        "namn": "FUSING UNIT:EU:SUB-ASS'Y",
+        "antal": 1
+    },
+    {
+        "artnr": "D0892251-",
+        "namn": "None",
+        "antal": 1
+    },
+    {
+        "artnr": "D0892251",
+        "namn": "DRUM UNIT:CMY",
+        "antal": 1
+    },
+    {
+        "artnr": "D0892251",
+        "namn": "DRUM UNIT:CMY",
+        "antal": 1
+    },
+    {
+        "artnr": "D0093883",
+        "namn": "FRAME:TRANSFER BELT",
+        "antal": 1
+    },
+    {
+        "artnr": "D1964032",
+        "namn": "FUSING UNIT:EU/AA/CHN:SERVICE PARTS",
+        "antal": 1
+    },
+    {
+        "artnr": "4411844X",
+        "namn": "None",
+        "antal": 1
+    },
+    {
+        "artnr": "D1862228",
+        "namn": "None",
+        "antal": 1
+    },
+    {
+        "artnr": "D1504042",
+        "namn": "SLEEVE:FUSING:EU:CDE:SERVICE",
+        "antal": 1
+    },
+    {
+        "artnr": "D0894551",
+        "namn": "GUIDE PLATE:TRANSFER UNIT:C2.5:ASS'",
+        "antal": 1
+    },
+    {
+        "artnr": "D2191860",
+        "namn": "OPTICAL WRITING UNIT:ASS'Y",
+        "antal": 1
+    },
+    {
+        "artnr": "D2416141",
+        "namn": "CLEANING UNIT:BELT CLEANING:C2:ASS'",
+        "antal": 1
+    },
+    {
+        "artnr": "D2960122",
+        "namn": "None",
+        "antal": 2
+    },
+    {
+        "artnr": "D1444405",
+        "namn": "PAPER EXIT UNIT:MACHINE OR COPIER:A",
+        "antal": 1
+    },
+    {
+        "artnr": "D5812523",
+        "namn": "PAPER FEED UNIT:ASS'Y",
+        "antal": 1
+    },
+    {
+        "artnr": "D1863082",
+        "namn": "DEVELOPMENT UNIT:YELLOW:SERVICE PAR",
+        "antal": 1
+    },
+    {
+        "artnr": "D1504042",
+        "namn": "SLEEVE:FUSING:EU:CDE:SERVICE",
+        "antal": 0
+    },
+    {
+        "artnr": "M9060114",
+        "namn": "None",
+        "antal": 1
+    },
+    {
+        "artnr": "D6952541",
+        "namn": "PAPER FEED UNIT:ASS'Y",
+        "antal": 1
+    },
+    {
+        "artnr": "D1863052",
+        "namn": "DEVELOPMENT UNIT:BLACK:SERVICE PART",
+        "antal": 1
+    },
+    {
+        "artnr": "D6905403",
+        "namn": "HARNESS:STAPLER",
+        "antal": 1
+    },
+    {
+        "artnr": "D1292836",
+        "namn": "GUIDE PLATE:SWIVEL:ASS'Y",
+        "antal": 1
+    },
+    {
+        "artnr": "M0262016",
+        "namn": "PCU:ZEUS-C1:BK:SUPPLY:ASS'Y",
+        "antal": 1
+    },
+    {
+        "artnr": "D0392020",
+        "namn": "PHOTO CONDUCTOR UNIT:ASS'Y",
+        "antal": 1
+    },
+    {
+        "artnr": "D1862259",
+        "namn": "None",
+        "antal": 1
+    },
+    {
+        "artnr": "D0896022",
+        "namn": "CLEANING UNIT:INTERMEDIATE TRANSFER",
+        "antal": 3
+    },
+    {
+        "artnr": "D0293015",
+        "namn": "DEVELOPMENT UNIT:BK:C2:EXP:ASS'Y",
+        "antal": 1
+    },
+    {
+        "artnr": "D1443221",
+        "namn": "PUMP UNIT:BK:C3:ASS'Y",
+        "antal": 1
+    },
+    {
+        "artnr": "D0254405",
+        "namn": "PAPER EXIT UNIT:MACHINE OR COPIER:A",
+        "antal": 2
+    },
+    {
+        "artnr": "D1054506",
+        "namn": "GUIDE PLATE:EXIT:DUPLEX:ASS'Y",
+        "antal": 1
+    },
+    {
+        "artnr": "D6932527",
+        "namn": "None",
+        "antal": 1
+    },
+    {
+        "artnr": "D2412708",
+        "namn": "None",
+        "antal": 1
+    },
+    {
+        "artnr": "D1444046",
+        "namn": "SLEEVE:FUSING:EU:ACCESSORY",
+        "antal": 1
+    },
+    {
+        "artnr": "AB012062",
+        "namn": "GEAR:HOT ROLLER",
+        "antal": 1
+    },
+    {
+        "artnr": "D0392040",
+        "namn": "PCU:DIANA:ASS'Y",
+        "antal": 1
+    },
+    {
+        "artnr": "D0894035",
+        "namn": "FUSING UNIT:EU:MAINTENANCE:ASS'Y",
+        "antal": 1
+    },
+    {
+        "artnr": "AJ011030",
+        "namn": "STAPLER:EH-C590R10",
+        "antal": 3
+    },
+    {
+        "artnr": "D0874037",
+        "namn": "FUSING UNIT:EU:MAINTENANCE:ASS'Y",
+        "antal": 1
+    },
+    {
+        "artnr": "D2411417",
+        "namn": "OPERATION SUB-UNIT:ME-C2:CT-G2:ASS'",
+        "antal": 1
+    },
+    {
+        "artnr": "M0664012",
+        "namn": "FUSING UNIT:EU:MAINTENANCE:ASS'Y",
+        "antal": 1
+    },
+    {
+        "artnr": "D5735110",
+        "namn": "PCB:BANK:RODOS:ASS'Y",
+        "antal": 1
+    },
+    {
+        "artnr": "A2946700",
+        "namn": "TORQUE LIMITER - 53MNXM",
+        "antal": 1
+    },
+    {
+        "artnr": "D1445119",
+        "namn": "PCB:BRB",
+        "antal": 1
+    },
+    {
+        "artnr": "D0392927",
+        "namn": "GUIDE PLATE:VERTICAL TRANSPORT:SWIV",
+        "antal": 1
+    },
+    {
+        "artnr": "D0292211",
+        "namn": "PCU:Y:EXP:ASS'Y",
+        "antal": 1
+    },
+    {
+        "artnr": "B2242042R",
+        "namn": "None",
+        "antal": 2
+    },
+    {
+        "artnr": "M0655717",
+        "namn": "PCB:CTL:ZE-P1A:35CPM:EXP",
+        "antal": 1
+    },
+    {
+        "artnr": "M0262014",
+        "namn": "PCU:BK:ASS'Y",
+        "antal": 1
+    },
+    {
+        "artnr": "D1314098",
+        "namn": "CLEANING UNIT:HOT ROLLER:ASS'Y",
+        "antal": 1
+    },
+    {
+        "artnr": "D1294304",
+        "namn": "CLEANING UNIT:ASS'Y",
+        "antal": 1
+    },
+    {
+        "artnr": "M80828410A",
+        "namn": "None",
+        "antal": 1
+    },
+    {
+        "artnr": "B4089910",
+        "namn": "STAPLER:KING",
+        "antal": 13
+    },
+    {
+        "artnr": "D6862610",
+        "namn": "GUIDE PLATE:OPEN AND CLOSE:ASS'Y",
+        "antal": 1
+    },
+    {
+        "artnr": "AX060435",
+        "namn": "DC MOTOR:GEAR:10W:BRUSHLESS",
+        "antal": 1
+    },
+    {
+        "artnr": "B7929901",
+        "namn": "None",
+        "antal": 4
+    },
+    {
+        "artnr": "D0394017.",
+        "namn": "None",
+        "antal": 1
+    },
+    {
+        "artnr": "B8044875",
+        "namn": "GUIDE PLATE:OPEN AND CLOSE:LOWER:PA",
+        "antal": 1
+    },
+    {
+        "artnr": "D5412100",
+        "namn": "PAPER FEED UNIT",
+        "antal": 1
+    },
+    {
+        "artnr": "AD042083",
+        "namn": "BLADE:CLEANING:ASS'Y",
+        "antal": 1
+    },
+    {
+        "artnr": "D1444253",
+        "namn": "FUSING UNIT:EU:MAINTENANCE:ASS'Y",
+        "antal": 1
+    },
+    {
+        "artnr": "D0894407",
+        "namn": "PAPER EXIT UNIT:MACHINE OR COPIER:A",
+        "antal": 1
+    },
+    {
+        "artnr": "D1304003",
+        "namn": "FUSING UNIT:EU:SERVICE:ASS'Y",
+        "antal": 1
+    },
+    {
+        "artnr": "D0394402",
+        "namn": "PAPER EXIT UNIT:ASS'Y",
+        "antal": 1
+    },
+    {
+        "artnr": "D5882711",
+        "namn": "COVER:PROOF TRAY",
+        "antal": 1
+    },
+    {
+        "artnr": "D1292841",
+        "namn": "GUIDE PLATE:SWIVEL:NO.2:ASS'Y",
+        "antal": 1
+    },
+    {
+        "artnr": "D1862258",
+        "namn": "None",
+        "antal": 1
+    },
+    {
+        "artnr": "D1443005",
+        "namn": "DEVELOPMENT UNIT:BK:AP-C3:ASS'Y",
+        "antal": 1
+    },
+    {
+        "artnr": "D2414953",
+        "namn": "None",
+        "antal": 1
+    },
+    {
+        "artnr": "D2414990",
+        "namn": "None",
+        "antal": 1
+    },
+    {
+        "artnr": "B2236039",
+        "namn": "CLEANING UNIT:INTERMEDIATE TRANSFER",
+        "antal": 2
+    },
+    {
+        "artnr": "D2414955",
+        "namn": "None",
+        "antal": 1
+    },
+    {
+        "artnr": "M0264561",
+        "namn": "GUIDE PLATE:OPEN AND CLOSE",
+        "antal": 1
+    },
+    {
+        "artnr": "D0396204",
+        "namn": "TRANSFER/SEPARATION UNIT:SECOND:ASS",
+        "antal": 1
+    },
+    {
+        "artnr": "D0425101",
+        "namn": "PCB:BICU:AT-C1:ASS'Y",
+        "antal": 1
+    },
+    {
+        "artnr": "D1481412",
+        "namn": "OPERATION SUB-UNIT:ME-C1:CM:EU:ASS'",
+        "antal": 1
+    },
+    {
+        "artnr": "M0264012",
+        "namn": "FUSING UNIT:EU/AA:SERVICE",
+        "antal": 1
+    },
+    {
+        "artnr": "B2592210",
+        "namn": "PCU - ASS'Y",
+        "antal": 1
+    },
+    {
+        "artnr": "D1502708",
+        "namn": "None",
+        "antal": 1
+    },
+    {
+        "artnr": "D1444554",
+        "namn": "GUIDE PLATE:TRANSFER UNIT:C3:ASS'Y",
+        "antal": 1
+    },
+    {
+        "artnr": "D0292209",
+        "namn": "PCU:M:EXP:ASS'Y",
+        "antal": 1
+    },
+    {
+        "artnr": "D0254063X",
+        "namn": "None",
+        "antal": 1
+    },
+    {
+        "artnr": "D6555204",
+        "namn": "PCB:FAX CONTROL UNIT:STC5_EU:SERVIC",
+        "antal": 1
+    },
+    {
+        "artnr": "AJ011030",
+        "namn": "STAPLER:EH-C590R10",
+        "antal": 1
+    },
+    {
+        "artnr": "B0047361",
+        "namn": "PCU",
+        "antal": 1
+    },
+    {
+        "artnr": "D1862228",
+        "namn": "None",
+        "antal": 2
+    },
+    {
+        "artnr": "D1496008",
+        "namn": "None",
+        "antal": 1
+    },
+    {
+        "artnr": "AE020199",
+        "namn": "PRESSURE ROLLER",
+        "antal": 1
+    },
+    {
+        "artnr": "AE045099",
+        "namn": "CLEANING WEB",
+        "antal": 1
+    },
+    {
+        "artnr": "B2969640",
+        "namn": "DEVELOPER - BLACK",
+        "antal": 1
+    },
+    {
+        "artnr": "AE011132",
+        "namn": "HOT ROLLER",
+        "antal": 1
+    },
+    {
+        "artnr": "A2323880",
+        "namn": "TRANSFER BELT",
+        "antal": 1
+    },
+    {
+        "artnr": "D0092351",
+        "namn": "CLEANING BLADE",
+        "antal": 1
+    },
+    {
+        "artnr": "G7902329",
+        "namn": "BRUSH ROLLER:CLEANER:CHARGE:AMABUKI",
+        "antal": 1
+    },
+    {
+        "artnr": "AD027012",
+        "namn": "ROLLER:CHARGE:APPLY",
+        "antal": 1
+    },
+    {
+        "artnr": "AD041135",
+        "namn": "CLEANING BLADE - TRANSFER BELT",
+        "antal": 1
+    },
+    {
+        "artnr": "D0099510",
+        "namn": "OPC DRUM",
+        "antal": "test"
+    },
+    {
+        "artnr": "TEST",
+        "namn": "None",
+        "antal": 0
+    },
+    {
+        "artnr": "132",
+        "namn": "F2 FORMS DEVICE PLATE/GEAR REPAIR",
         "antal": 1
     }
 ]
